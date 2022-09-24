@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Photo Weather</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_list">list</string>
+    <string name="share_to_twitter">Share to twitter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_not_have_any_photos">Do not have any photos</string>
 </resources>
